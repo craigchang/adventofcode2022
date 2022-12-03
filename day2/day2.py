@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/2
+
 hand_pts_dict = {"A": 1, "B": 2, "C": 3}
 losing_hand = {"A": "B", "B": "C", "C": "A"}
 winning_hand = {"A": "C", "B": "A", "C": "B"}

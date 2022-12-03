@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/1
+
 def readFile():
   with open("day1/input.txt", "r") as f:
     elves, calories = [], 0
